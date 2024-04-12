@@ -6,7 +6,7 @@
   "homepage": "https://dagmarasobczak.github.io/terapia",
   "scripts": {
     "dev": "vite",
-    "build": "esbuild app.jsx --bundle --outfile=out.js",
+    "build": "esbuild App.jsx --bundle --outfile=out.js",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
